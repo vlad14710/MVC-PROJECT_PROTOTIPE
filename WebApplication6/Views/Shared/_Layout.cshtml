@@ -1,6 +1,21 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <style>
+        .navbar-nav > li > .nav-link:hover {
+            color: #007bff;
+        }
+
+        .navbar-nav > li > .nav-link:focus {
+            color: #007bff;
+        }
+
+        .navbar-nav .dropdown-menu {
+            margin-top: 0;
+            border-top-left-radius: 0;
+            border-top-right-radius: 0;
+        }
+    </style>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>@ViewData["Title"] - WebApplication6</title>
@@ -8,38 +23,71 @@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/WebApplication6.styles.css" asp-append-version="true" />
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">WebApplication6</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </header>
+
+    <header
+  class="navbar navbar-expand-lg navbar-light bg-light"
+  style="display: flex; justify-content: space-between"
+>
+  <div>
+    
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navbarNav"
+      aria-controls="navbarNav"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item active">
+        <a class="nav-link" asp-controller="Haircut" asp-action="List">Home</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" asp-controller="Home" asp-action="CreateBook">CreateBook</a>
+      </li>
+    </ul>
+  </div>
+  <h1>Перукарня Надії</h1>
+  <div>
+    <ul class="navbar-nav ml-auto">
+      <li class="nav-item">
+        @if (User.IsInRole("admin")) {
+        <a class="nav-link" asp-controller="Admin" asp-action="Display">Admin Page</a>
+        }
+      </li>
+      <li class="nav-item">
+        @if (string.IsNullOrEmpty(User.Identity.Name)) {
+        <a class="nav-link" href="/UserAuthentication/Login">Login</a>
+        }
+      </li>
+      @if (!string.IsNullOrEmpty(User.Identity.Name)) {
+      <li class="nav-item">
+        <a class="nav-link" href="/UserAuthentication/ChangePassword"> ChangePassword </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="/UserAuthentication/Logout"> Logout </a>
+      </li>
+      }
+    </ul>
+  </div>
+</header>
+
+
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2022 - WebApplication6 - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
+    <footer  >
+        
     </footer>
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>

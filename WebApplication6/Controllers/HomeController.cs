@@ -2,42 +2,170 @@
 using System.Diagnostics;
 using WebApplication6.Models;
 using WebApplication6;
+using Microsoft.AspNetCore.Mvc.Rendering;
+using System.Web;
+using Microsoft.AspNetCore.Http;
+using System.Linq;
+using System.Security;
+using Microsoft.AspNetCore.Identity;
+
 namespace WebApplication6.Controllers
 {
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-        
+        private readonly Context _context;
+        private readonly UserManager<ApplicationUser> userManager;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(UserManager<ApplicationUser> userManager,ILogger<HomeController> logger, Context context)
         {
             _logger = logger;
-           
+            _context = context;
+            this.userManager = userManager;
+
         }
         
 
         public IActionResult Index()
         {
-            using var dbCon = new Context();
-            var Query = dbCon.Registrations.ToList();
+            
+            var Query = _context.Registrations.ToList();
             return View(Query);
         }
-        public IActionResult Create()
+        
+        public ActionResult Login()
         {
             return View();
         }
 
         [HttpPost]
-        public IActionResult Create (string firstname ,string secondname,string phonenumber,DateTime book)
+        public ActionResult Login(Registration userdata)
         {
-            Registration registration = new Registration() { FirstName = firstname, SecondName = secondname, PhoneNamber = phonenumber };
-            using var dbCon = new Context();
-            dbCon.Registrations.Add(registration);
-            dbCon.SaveChanges();
-            return RedirectToAction("Index");
+            using (_context)
+            {
+                var user = _context.Registrations.Single(u => u.FirstName == userdata.FirstName && u.Password == userdata.Password);
+                if (user != null)
+                {
+                    
+                    
+                    return RedirectToAction(nameof(Index));
+                }
+
+                return View();
+            }
+
+            
         }
 
-        public IActionResult Privacy()
+        public async Task<IActionResult> CreateBook()
+        {
+
+            if (!string.IsNullOrEmpty(User.Identity.Name))
+            {
+
+                await Task();
+                
+            }
+            ViewBag.Haircut = _context.Haircut.ToList();
+            return View();
+        }
+        public async Task Task()
+        {
+            var user = await userManager.GetUserAsync(User);
+
+            if (user == null)
+            {
+                throw new InvalidOperationException("User is null.");
+            }
+
+            var lastName = user.LastName.ToString();
+            ViewBag.lastName = lastName;
+            
+        }
+
+
+
+
+
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult CreateBook(Book book)
+        {
+            
+            if (ModelState.IsValid)
+            {
+                _context.Add(book);
+                _context.SaveChanges();
+                return RedirectToAction("List", "Haircut");
+            }
+            ViewBag.Haircut = _context.Haircut.ToList();
+            return View(book);
+        }
+
+        public IActionResult ListBook()
+        {
+
+
+            ViewBag.Haircut = _context.Haircut.ToList();
+            List<Book> Book = _context.Book.ToList();
+
+
+
+            return View(Book);
+            
+        }
+
+
+        public IActionResult CreateReg()
+        {
+           
+            
+            ViewBag.RoleId = new SelectList(_context.Role, "Id" , "Name" );
+            
+            return View();
+        }
+
+       
+
+
+
+        public IActionResult ListHaircut ()
+        {
+
+            return View();
+        }
+        
+
+
+        [HttpPost]
+        public async Task<IActionResult> Create([Bind("Id,Title,ReleaseDate,Genre,Price")] Registration USER)
+        {
+            Registration registration = new Registration();
+           
+            if (ModelState.IsValid)
+            {
+                _context.Add(USER);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return RedirectToAction(nameof(Index));
+        }
+        public async Task<IActionResult> Createtest([Bind("Id,Title,ReleaseDate,Genre,Price")] Registration USER)
+        {
+            Registration registration = new Registration();
+            
+            if (ModelState.IsValid)
+            {
+                _context.Add(USER);
+                await _context.SaveChangesAsync();
+                return RedirectToAction(nameof(Index));
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+
+        public IActionResult Detail()
         {
             return View();
         }

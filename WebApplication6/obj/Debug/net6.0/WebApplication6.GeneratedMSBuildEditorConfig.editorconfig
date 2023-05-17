@@ -15,16 +15,56 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Vlad\source\repos\MVC-PROJECT_PROTOTIPE\WebApplication6
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Admin/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGlzcGxheS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Dashboard/Display.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/list.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxsaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/CreateBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVCb29rLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/ListBook.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMaXN0Qm9vay5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Shared/Components/ImageUploader/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcSW1hZ2VVcGxvYWRlclxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Shared/Error.cshtml]
@@ -33,6 +73,18 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/UserAuthentication/ChangePassword.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXENoYW5nZVBhc3N3b3JkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/UserAuthentication/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/UserAuthentication/Registration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckF1dGhlbnRpY2F0aW9uXFJlZ2lzdHJhdGlvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/_ViewImports.cshtml]

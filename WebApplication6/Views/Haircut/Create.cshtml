@@ -1,0 +1,59 @@
+﻿@model WebApplication6.Models.Haircut
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>CreateHaircut</h1>
+
+<h4>Haircut</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form enctype="multipart/form-data" asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Name" class="control-label"></label>
+                <input asp-for="Name" class="form-control" />
+                <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Info" class="control-label"></label>
+                <input asp-for="Info" class="form-control" />
+                <span asp-validation-for="Info" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Price" class="control-label"></label>
+                <input asp-for="Price" class="form-control" />
+                <span asp-validation-for="Price" class="text-danger"></span>
+            </div>
+
+
+            <div class="form-group">
+                <vc:image-uploader field-name="@nameof(Model.HaircutImage)">
+                </vc:image-uploader>
+            </div>
+
+            <div class="form-group">
+                <vc:image-uploader field-name="@nameof(Model.BackImage)">
+                </vc:image-uploader>
+            </div>
+          
+             
+
+            
+
+            <div class="form-group">
+                <input   type="submit" style="border:1px ;margin-top:20px;margin-left:30px;" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

@@ -1,16 +1,21 @@
 ﻿@model IEnumerable<Registration>
 <table class="table">
-     
+    
     @foreach (var item in Model)
     {
+    
         <tr>
             <td>@item.FirstName</td>
             <td>@item.SecondName</td>
             <td>@item.PhoneNamber</td>
-            
+             <td><a asp-action="Create1">Create1</a></td>
         </tr>
+
+
     }
 </table>
 <div>
-    <a asp-action="Create">Create</a>
+   <a asp-action="CreateReg" >CreateReg</a>
+   <a asp-action="CreateBook">CreateBook</a>
+   <a asp-controller="Haircut">Haircut</a>
 </div>

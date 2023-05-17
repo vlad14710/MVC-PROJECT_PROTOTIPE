@@ -1,0 +1,63 @@
+﻿@model WebApplication6.Models.Book
+
+@{
+    ViewData["Title"] = "CreateBook";
+}
+
+<h1>CreateBook</h1>
+
+<h4>Book</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+       <form method="post" enctype="multipart/form-data">
+    @Html.AntiForgeryToken()
+
+    <div class="form-group">
+        <label for="HaircutIdforBook">Select a Haircut:</label>
+        <select class="form-control" id="HaircutIdforBook" name="HaircutIdforBook">
+            @foreach (var haircut in ViewBag.Haircut)
+            {
+                <option value="@haircut.Id">@haircut.Name</option>
+            }
+        </select>
+    </div>
+            @if (!string.IsNullOrEmpty(User.Identity.Name))
+            {   
+                <div class="form-group">
+                    <label for="FirstName">First Name:</label>
+                    <input class="form-control" type="text" id="FirstName" name="FirstName" value="@User.Identity.Name"/>
+                </div>
+
+                <div class="form-group">
+                    <label for="SecondName">Second Name:</label>
+                    <input class="form-control" type="text" id="SecondName" name="SecondName" value="@ViewBag.lastName"/>
+                </div>
+
+                <div class="form-group">
+                    <label for="PhoneNamber">Phone Number:</label>
+                    <input class="form-control" type="number" id="PhoneNamber" name="PhoneNamber" />
+                </div>
+
+                <div class="form-group">
+                    <label for="BookingTime">Booking Time:</label>
+                    <input class="form-control" type="datetime-local" id="BookingTime" name="BookingTime" />
+                </div>
+
+                <div class="form-group">
+                    <label for="Note">Note:</label>
+                    <textarea class="form-control" id="Note" name="Note"></textarea>
+                </div>
+            }
+            <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+    </div>
+</div>
+
+<div>
+    <a asp-controller="Haircut" asp-action="List">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
