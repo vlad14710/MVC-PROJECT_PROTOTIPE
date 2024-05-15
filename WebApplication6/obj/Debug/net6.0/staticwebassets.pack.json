@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\WebApplication6.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WebApplication6.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\0a18dd43-02a3-411f-84d4-a5472caf78cc_photo_2023-05-15_22-49-03.jpg",
+      "PackagePath": "staticwebassets\\images\\0a18dd43-02a3-411f-84d4-a5472caf78cc_photo_2023-05-15_22-49-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\15f509f8-cebb-4457-8a86-52f0a546a253_5c25f76441e7e167f44e5fae.png",
+      "PackagePath": "staticwebassets\\images\\15f509f8-cebb-4457-8a86-52f0a546a253_5c25f76441e7e167f44e5fae.png"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\280a9277-e388-43f7-8b00-f7e599b2fa30_newphoto.jpg",
+      "PackagePath": "staticwebassets\\images\\280a9277-e388-43f7-8b00-f7e599b2fa30_newphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\57db730a-e6f5-455c-89d9-1919c0f3234c_photo_2023-05-15_17-20-24.jpg",
+      "PackagePath": "staticwebassets\\images\\57db730a-e6f5-455c-89d9-1919c0f3234c_photo_2023-05-15_17-20-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\95b5d7d5-7868-4e9a-b059-57ee4a4f6a4c_png-clipart-cat-kitty-creative-cat.png",
+      "PackagePath": "staticwebassets\\images\\95b5d7d5-7868-4e9a-b059-57ee4a4f6a4c_png-clipart-cat-kitty-creative-cat.png"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\aa9dfeea-8076-4ccf-99df-f0b9ee2440f8_динозаврики.png",
+      "PackagePath": "staticwebassets\\images\\aa9dfeea-8076-4ccf-99df-f0b9ee2440f8_динозаврики.png"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\cbd12c51-a8ea-488e-acd7-5d7454b30fc2_photo_2023-05-15_22-49-14.jpg",
+      "PackagePath": "staticwebassets\\images\\cbd12c51-a8ea-488e-acd7-5d7454b30fc2_photo_2023-05-15_22-49-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\ce8a57b9-a2bb-4620-8dcb-cfbc6bba34c1_newphoto.jpg",
+      "PackagePath": "staticwebassets\\images\\ce8a57b9-a2bb-4620-8dcb-cfbc6bba34c1_newphoto.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\de5c808b-bd1e-4342-85fe-195630e96f8a_photo_2023-05-15_17-20-14.jpg",
+      "PackagePath": "staticwebassets\\images\\de5c808b-bd1e-4342-85fe-195630e96f8a_photo_2023-05-15_17-20-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\images\\e746972c-b999-456f-8625-fde4c3a47329_динозаврики.png",
+      "PackagePath": "staticwebassets\\images\\e746972c-b999-456f-8625-fde4c3a47329_динозаврики.png"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Vlad\\Source\\Repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication6.props",
+      "PackagePath": "build\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication6.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication6.props",
+      "PackagePath": "buildTransitive\\WebApplication6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
