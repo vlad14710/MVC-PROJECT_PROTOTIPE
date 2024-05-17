@@ -89,18 +89,17 @@ namespace WebApplication6.Controllers
 
 
         [HttpPost]
-        [ValidateAntiForgeryToken]
+        
         public IActionResult CreateBook(Book book)
         {
-            
-            if (ModelState.IsValid)
+            if (book.Note == null)
             {
-                _context.Add(book);
-                _context.SaveChanges();
-                return RedirectToAction("List", "Haircut");
+                book.Note = "defult";
             }
-            ViewBag.Haircut = _context.Haircut.ToList();
-            return View(book);
+            _context.Add(book);
+            _context.Entry(book).State = Microsoft.EntityFrameworkCore.EntityState.Added;
+            _context.SaveChanges();
+            return RedirectToAction("List", "Haircut");
         }
 
         public IActionResult ListBook()
@@ -114,6 +113,14 @@ namespace WebApplication6.Controllers
 
             return View(Book);
             
+        }
+
+
+        public IActionResult FilterByDate(string selectedDate)
+        {
+            DateTime Date = DateTime.Parse(selectedDate);
+            List<Book> Book = _context.Book.Where(d => d.BookingTime.Date == Date.Date).ToList();
+            return View(Book);
         }
 
 

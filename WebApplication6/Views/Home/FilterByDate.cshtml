@@ -1,0 +1,75 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+@model IEnumerable<WebApplication6.Models.Book>
+
+@{
+    ViewData["Title"] = "Filtered";
+}
+
+<h1>ListBook</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.FirstName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.SecondName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNamber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BookingTime)|
+                <form method="post" asp-action="FilterByDate">
+                    <input type="date" name="selectedDate" />
+                    <button type="submit">Фільтрувати за датою</button>
+                </form>
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Haircut)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Note)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FirstName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SecondName)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNamber)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BookingTime)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Haircut.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Note)
+                </td>
+                <td>
+                    
+                    
+                    <a asp-action="Tomorow">Show tomorrow books</a> |
+                    <a asp-action="Today">Show today books</a>
+
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

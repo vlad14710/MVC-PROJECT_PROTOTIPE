@@ -7,6 +7,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using System.IO;
 using Microsoft.AspNetCore.Hosting;
 
+
 namespace WebApplication6.Controllers
 {
     public class HaircutController : Controller
@@ -133,10 +134,51 @@ namespace WebApplication6.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public async Task<IActionResult> Coment()
+        {
+            ViewBag.Coment = _context.Coment.ToList();
+            
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Coment(Coment data)
+        {
+            _context.Add(data);
+            _context.Entry(data).State = Microsoft.EntityFrameworkCore.EntityState.Added;
+            _context.SaveChanges();
+            return RedirectToAction(nameof(Index));
+        }
+        public IActionResult ComentList()
+        {
+            List<Coment> Coment = _context.Coment.ToList();
+
+
+
+            return View(Coment);
+        }
+
+        
+        public IActionResult ComentListId(int id)
+        {
+            List<Coment> comments = _context.Coment.Where(d => d.HaircutIdforBook == id).ToList();
+
+
+
+            return View(comments);
+        }
+
+
+
+
 
         public IActionResult Details(int id)
         {
             Haircut haircut = _context.Haircut.SingleOrDefault(d => d.Id == id);
+
+            ViewData["HaircutId"] = id;
+            
+            
             return View(haircut);
         }
 

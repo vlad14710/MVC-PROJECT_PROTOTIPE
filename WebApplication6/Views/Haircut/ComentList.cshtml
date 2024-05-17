@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ComentList";
+}
+
+@model IEnumerable<WebApplication6.Models.Coment>
+
+
+
+
+@if (ViewData["ComentData"] != null)
+{
+    var comentData = ViewData["ComentData"] as IEnumerable<Coment>;
+
+    @foreach (var item in comentData)
+    {
+        if (ViewData["HaircutId"] != null)
+        {
+            int haircutId = (int)ViewData["HaircutId"];
+            if (haircutId == item.HaircutIdforBook)
+            {
+                <div class="card" style="width: 100% ; height : auto ; display: inline-block ; ">
+
+                    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
+
+                    <div class="card-body">
+                        <label> @item.UserName</label>
+                        <p class="card-text" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 500ch;">@item.UserComent</p>
+
+                    </div>
+                </div>
+            }
+        }
+    }
+}
+
+@if (ViewData["HaircutId"]==null)
+{
+    
+
+@foreach (var item in Model)
+    {
+        
+        <div class="card" style="width: 100% ; height : auto ; display: inline-block ; ">
+
+            <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" />
+
+            <div class="card-body">
+                <label> @item.UserName</label>
+                <p class="card-text" style="white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 500ch;">@item.UserComent</p>
+                
+            </div>
+        </div>
+               
+    }
+}

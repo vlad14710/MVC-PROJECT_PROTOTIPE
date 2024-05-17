@@ -19,6 +19,8 @@ namespace WebApplication6.Models
 
         public List<Book> Book { get; set; }
 
+        public List<Coment> Coment { get; set; }
+
         public string BackImageUrl { get; set; }
 
         [NotMapped]

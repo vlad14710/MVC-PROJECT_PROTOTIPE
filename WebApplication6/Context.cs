@@ -19,7 +19,7 @@ namespace WebApplication6
 
         public DbSet<Role> Role { get; set; }
 
-        
+        public DbSet<Coment> Coment { get; set; }
 
         public Context(DbContextOptions<Context> options) : base(options)
         {

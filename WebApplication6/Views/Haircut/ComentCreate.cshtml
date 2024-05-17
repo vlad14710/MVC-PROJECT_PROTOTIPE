@@ -1,0 +1,32 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "ComentCreate";
+}
+
+@model WebApplication6.Models.Coment
+
+<div>
+    @if (!string.IsNullOrEmpty(User.Identity.Name))
+    {
+        <div class="row">
+            <div class="col-md-4">
+                <form enctype="multipart/form-data" asp-action="Coment">
+                    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                    <input type="hidden" asp-for="@Model.HaircutIdforBook" value="@ViewData["HaircutId"]" />
+                    <input type="hidden" asp-for="@Model.UserName" value="@User.Identity.Name" />
+                    <div class="form-group">
+                        <label asp-for="@Model.UserComent" class="control-label"></label>
+                        <textarea asp-for="@Model.UserComent" class="form-control"></textarea>
+                        <span asp-validation-for="@Model.UserComent" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" style="border:1px ;margin-top:20px;margin-left:30px;" value="Coment" class="btn btn-primary" />
+                    </div>
+                </form>
+            </div>
+        </div>
+    }
+</div>

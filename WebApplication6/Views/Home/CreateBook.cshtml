@@ -7,79 +7,104 @@
 <h1>CreateBook</h1>
 
 <h4>Book</h4>
-<hr />
+
+
+
+
+
+
+
+
 <div class="row">
     <div class="col-md-4">
-       <form method="post" enctype="multipart/form-data">
-    @Html.AntiForgeryToken()
-
-    <div class="form-group">
-        <label for="HaircutIdforBook">Select a Haircut:</label>
-        <select class="form-control" id="HaircutIdforBook" name="HaircutIdforBook">
-            @foreach (var haircut in ViewBag.Haircut)
-            {
-                <option value="@haircut.Id">@haircut.Name</option>
-            }
-        </select>
-    </div>
+        <form enctype="multipart/form-data" asp-action="CreateBook">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label for="HaircutIdforBook">Select a Haircut:</label>
+                <select class="form-control" id="HaircutIdforBook" name="HaircutIdforBook">
+                    @foreach (var haircut in ViewBag.Haircut)
+                    {
+                        <option title="Виберіть стрижку" value="@haircut.Id">@haircut.Name</option>
+                    }
+                </select>
+            </div>
+            
             @if (!string.IsNullOrEmpty(User.Identity.Name))
-            {   
+            {
                 <div class="form-group">
-                    <label for="FirstName">First Name:</label>
-                    <input class="form-control" type="text" id="FirstName" name="FirstName" value="@User.Identity.Name"/>
+                    <label asp-for="FirstName" class="control-label"></label>
+                    <input asp-for="FirstName" class="form-control" value="@User.Identity.Name" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SecondName" class="control-label"></label>
+                    <input asp-for="SecondName" class="form-control" value="@ViewBag.lastName" />
+                    <span asp-validation-for="SecondName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PhoneNamber" class="control-label"></label>
+                    <input asp-for="PhoneNamber" class="form-control" />
+                    <span asp-validation-for="PhoneNamber" class="text-danger"></span>
                 </div>
 
                 <div class="form-group">
-                    <label for="SecondName">Second Name:</label>
-                    <input class="form-control" type="text" id="SecondName" name="SecondName" value="@ViewBag.lastName"/>
+                    <label asp-for="BookingTime" class="control-label"></label>
+                    <input asp-for="BookingTime" type="datetime-local" class="form-control" />
+                    <span asp-validation-for="BookingTime" class="text-danger"></span>
                 </div>
-
                 <div class="form-group">
-                    <label for="PhoneNamber">Phone Number:</label>
-                    <input class="form-control" type="number" id="PhoneNamber" name="PhoneNamber" />
-                </div>
+                    <label asp-for="Note" class="control-label"></label>
+                    <textarea asp-for="Note" class="form-control"></textarea>
+                    <span asp-validation-for="Note" style="text-align" class="text-danger"></span>
 
-                <div class="form-group">
-                    <label for="BookingTime">Booking Time:</label>
-                    <input class="form-control" type="datetime-local" id="BookingTime" name="BookingTime" />
-                </div>
-
-                <div class="form-group">
-                    <label for="Note">Note:</label>
-                    <textarea class="form-control" id="Note" name="Note"></textarea>
                 </div>
             }
             else
             {
                 <div class="form-group">
-                    <label for="FirstName">First Name:</label>
-                    <input class="form-control" type="text" id="FirstName" name="FirstName" />
+                    <label asp-for="FirstName" class="control-label"></label>
+                    <input asp-for="FirstName" class="form-control" />
+                    <span asp-validation-for="FirstName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SecondName" class="control-label"></label>
+                    <input asp-for="SecondName" class="form-control" />
+                    <span asp-validation-for="SecondName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PhoneNamber" class="control-label"></label>
+                    <input asp-for="PhoneNamber" class="form-control" />
+                    <span asp-validation-for="PhoneNamber" class="text-danger"></span>
                 </div>
 
                 <div class="form-group">
-                    <label for="SecondName">Second Name:</label>
-                    <input class="form-control" type="text" id="SecondName" name="SecondName" />
+                    <label asp-for="BookingTime" class="control-label"></label>
+                    <input asp-for="BookingTime" type="datetime-local" class="form-control" />
+                    <span asp-validation-for="BookingTime" class="text-danger"></span>
                 </div>
-
                 <div class="form-group">
-                    <label for="PhoneNamber">Phone Number:</label>
-                    <input class="form-control" type="number" id="PhoneNamber" name="PhoneNamber" />
-                </div>
+                    <label asp-for="Note" class="control-label"></label>
+                    <textarea asp-for="Note" class="form-control"></textarea>
+                    <span asp-validation-for="Note" style="text-align" class="text-danger"></span>
 
-                <div class="form-group">
-                    <label for="BookingTime">Booking Time:</label>
-                    <input class="form-control" type="datetime-local" id="BookingTime" name="BookingTime" />
-                </div>
-
-                <div class="form-group">
-                    <label for="Note">Note:</label>
-                    <textarea class="form-control" id="Note" name="Note"></textarea>
-                </div>
+            </div>
             }
-            <button type="submit" class="btn btn-primary">Submit</button>
-</form>
+
+
+
+            <div class="form-group">
+                <input type="submit" style="border:1px ;margin-top:20px;margin-left:30px;" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
     </div>
 </div>
+
+
+
+
+
+
+
 
 <div>
     <a asp-controller="Haircut" asp-action="List">Back to List</a>

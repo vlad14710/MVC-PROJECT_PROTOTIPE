@@ -3,84 +3,79 @@
   "WorkspaceRootPath": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OurDatabase/True/SqlTable/dbo.Book.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\repositories\\implementaion\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\repositories\\implementaion\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\haircutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\haircutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\filterbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\filterbydate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\listbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\listbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\admin\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\haircutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\haircutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\userauthenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\comentlistid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\comentlistid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\comentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\comentlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\comentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\comentcreate.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\haircut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\haircut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -91,22 +86,6 @@
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\repositories\\abstract\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\repositories\\abstract\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -115,20 +94,95 @@
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OurDatabase/True/SqlTable/dbo.Coment.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\haircut\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\haircut\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\dashboard\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\dashboard\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\userauthentication\\registration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\registrationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\models\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\userauthentication\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\repositories\\implementaion\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\repositories\\implementaion\\userauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\repositories\\abstract\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\repositories\\abstract\\iuserauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\views\\userauthentication\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\views\\userauthentication\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|c:\\users\\vlad\\source\\repos\\mvc-project_prototipe\\webapplication6\\migrations\\20240515185814_coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED1B5208-6A41-41DF-A417-ED80213C78FE}|WebApplication6\\WebApplication6.csproj|solutionrelative:webapplication6\\migrations\\20240515185814_coment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -138,64 +192,399 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAGgAAAAAAAAAAAAuwHkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:22.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Admin\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Admin\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Admin\\Display.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Admin\\Display.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserAuthenticationController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\UserAuthenticationController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UserAuthenticationController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\UserAuthenticationController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\UserAuthenticationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\ListBook.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\ListBook.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\ListBook.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\ListBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:22.997Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "dbo.Book [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OurDatabase/True/SqlTable/dbo.Book.sql",
+              "ToolTip": "dbo.Book [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-15T20:05:34.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilterByDate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\FilterByDate.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\FilterByDate.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\FilterByDate.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\FilterByDate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:51:38.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CreateBook.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\CreateBook.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\CreateBook.cshtml",
               "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\CreateBook.cshtml",
               "RelativeToolTip": "WebApplication6\\Views\\Home\\CreateBook.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAAQAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAA/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-15T16:39:22.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Display.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Admin\\Display.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Admin\\Display.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Admin\\Display.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Admin\\Display.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.026Z"
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HaircutController.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HaircutController.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HaircutController.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HaircutController.cs",
+              "RelativeToolTip": "WebApplication6\\Controllers\\HaircutController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAswKMAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ComentList.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentList.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\ComentList.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentList.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\ComentList.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T11:17:43.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Details.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Details.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAADYAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Coment.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Coment.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Coment.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Coment.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Coment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:57:37.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ComentCreate.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentCreate.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\ComentCreate.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentCreate.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\ComentCreate.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T11:21:37.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Haircut.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Haircut.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Haircut.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Haircut.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Haircut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:32:41.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ComentListId.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentListId.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\ComentListId.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\ComentListId.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\ComentListId.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:17:28.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Delete.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Delete.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Delete.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\ChangePassword.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ChangePassword.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\ChangePassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:14:55.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Book.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Create.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Edit.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Edit.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Edit.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:22.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:22.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication6\\appsettings.json",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\appsettings.json",
+              "RelativeToolTip": "WebApplication6\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-16T12:56:48.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "WebApplication6\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAE0AAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.991Z"
+              "WhenOpened": "2024-05-15T16:39:22.991Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 28,
+              "Title": "list.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\list.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\list.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\list.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\list.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.021Z"
+              "WhenOpened": "2024-05-15T16:39:22.989Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 29,
+              "Title": "dbo.Coment [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/OurDatabase/True/SqlTable/dbo.Coment.sql",
+              "ToolTip": "dbo.Coment [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-16T12:28:39.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Privacy.cshtml",
@@ -203,35 +592,108 @@
               "RelativeToolTip": "WebApplication6\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.962Z"
+              "WhenOpened": "2024-05-15T16:39:22.962Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAwGMAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:22.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Home\\Index.cshtml",
+              "DocumentIndex": 32,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Dashboard\\Display.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Dashboard\\Display.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Dashboard\\Display.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Dashboard\\Display.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.979Z"
+              "WhenOpened": "2024-05-15T18:29:27.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Index.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACkAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Registration.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T16:39:23.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20240515185814_COMENT.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Migrations\\20240515185814_COMENT.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Migrations\\20240515185814_COMENT.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Migrations\\20240515185814_COMENT.cs",
+              "RelativeToolTip": "WebApplication6\\Migrations\\20240515185814_COMENT.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T18:58:15.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-15T18:30:01.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RegistrationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\RegistrationModel.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\RegistrationModel.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\RegistrationModel.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\RegistrationModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:23.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Context.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Context.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Context.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Context.cs",
+              "RelativeToolTip": "WebApplication6\\Context.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:22.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Status.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Models\\Status.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Status.cs",
+              "RelativeToolTip": "WebApplication6\\Models\\Status.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:24:15.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
               "Title": "UserAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Repositories\\Implementaion\\UserAuthenticationService.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Repositories\\Implementaion\\UserAuthenticationService.cs",
@@ -243,139 +705,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\_ViewImports.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.985Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ValidationScriptsPartial.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.987Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "list.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\list.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\list.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\list.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\list.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.989Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Program.cs",
-              "RelativeToolTip": "WebApplication6\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:22.993Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Context.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Context.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Context.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Context.cs",
-              "RelativeToolTip": "WebApplication6\\Context.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAIwBcAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:22.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ListBook.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\ListBook.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Home\\ListBook.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Home\\ListBook.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Home\\ListBook.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAADoAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:22.997Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "WebApplication6\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-15T16:39:23.001Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "RegistrationModel.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\RegistrationModel.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Models\\RegistrationModel.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\RegistrationModel.cs",
-              "RelativeToolTip": "WebApplication6\\Models\\RegistrationModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.003Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "UserAuthenticationController.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\UserAuthenticationController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\UserAuthenticationController.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\UserAuthenticationController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\UserAuthenticationController.cs",
-              "ViewState": "AQIAAEAAAAAAAAAAAADwv1oAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.005Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "HaircutController.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HaircutController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\HaircutController.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\HaircutController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\HaircutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.007Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\DashboardController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 37,
               "Title": "Registration.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Registration.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Models\\Registration.cs",
@@ -387,43 +717,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "Book.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Book.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Models\\Book.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\Book.cs",
-              "RelativeToolTip": "WebApplication6\\Models\\Book.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.013Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "ApplicationUser.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ApplicationUser.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Models\\ApplicationUser.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Models\\ApplicationUser.cs",
-              "RelativeToolTip": "WebApplication6\\Models\\ApplicationUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.014Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Index.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Index.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCkAAABFAAAA",
+              "DocumentIndex": 39,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
+              "RelativeToolTip": "WebApplication6\\Views\\UserAuthentication\\Login.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.016Z"
+              "WhenOpened": "2024-05-15T16:39:23.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication6\\Program.cs",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Program.cs",
+              "RelativeToolTip": "WebApplication6\\Program.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T16:39:22.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "WebApplication6\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "WebApplication6\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-15T16:39:23.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "IUserAuthenticationService.cs",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Repositories\\Abstract\\IUserAuthenticationService.cs",
               "RelativeDocumentMoniker": "WebApplication6\\Repositories\\Abstract\\IUserAuthenticationService.cs",
@@ -435,79 +765,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.023Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "Registration.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\UserAuthentication\\Registration.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAIBJwCYAAAA6AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.028Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Create.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Create.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.03Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Edit.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Edit.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Edit.cshtml",
-              "ViewState": "AQIAAAwAAAAAAAAAAIBJwCgAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Details.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Details.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Details.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Details.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.033Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Delete.cshtml",
-              "RelativeDocumentMoniker": "WebApplication6\\Views\\Haircut\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\Haircut\\Delete.cshtml",
-              "RelativeToolTip": "WebApplication6\\Views\\Haircut\\Delete.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAIBJwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-15T16:39:23.035Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 44,
               "Title": "ChangePassword.cshtml",
               "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Views\\UserAuthentication\\ChangePassword.cshtml",
               "RelativeDocumentMoniker": "WebApplication6\\Views\\UserAuthentication\\ChangePassword.cshtml",
@@ -516,18 +774,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-15T16:39:23.038Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "WebApplication6\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Vlad\\source\\repos\\MVC-PROJECT_PROTOTIPE\\WebApplication6\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "WebApplication6\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T16:39:23.04Z"
             }
           ]
         }

@@ -47,9 +47,25 @@
     </dl>
 </div>
 <div>
+    <div>
      @if (User.IsInRole("admin")) {
     <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a> 
     <a asp-action="Index">Back to List for admin</a>
      }
+    </div>
     <a asp-action="List">Back to List</a>
+    <div>
+    <a asp-action="ComentListId" asp-route-id="@Model?.Id">Coments of @Model.Name</a>
+    </div>
 </div>
+
+
+
+<div>
+    @await Html.PartialAsync("ComentCreate", Model.Coment, new ViewDataDictionary(ViewData)
+    {
+    { "index", Model }
+    })
+</div>
+
+

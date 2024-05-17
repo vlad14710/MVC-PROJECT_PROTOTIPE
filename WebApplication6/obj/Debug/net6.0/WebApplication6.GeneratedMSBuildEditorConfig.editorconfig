@@ -26,6 +26,18 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERpc3BsYXkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/ComentCreate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxDb21lbnRDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/ComentList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxDb21lbnRMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/ComentListId.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxDb21lbnRMaXN0SWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Haircut/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSGFpcmN1dFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -52,6 +64,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/CreateBook.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGVCb29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/FilterByDate.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxGaWx0ZXJCeURhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Vlad/source/repos/MVC-PROJECT_PROTOTIPE/WebApplication6/Views/Home/Index.cshtml]

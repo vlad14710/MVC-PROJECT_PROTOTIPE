@@ -20,7 +20,11 @@
                 @Html.DisplayNameFor(model => model.PhoneNamber)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.BookingTime)
+                @Html.DisplayNameFor(model => model.BookingTime)|
+                <form method="post" asp-action="FilterByDate">
+                    <input type="date" name="selectedDate" />
+                    <button type="submit">Фільтрувати за датою</button>
+                </form>
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Haircut)
@@ -47,16 +51,18 @@
                 @Html.DisplayFor(modelItem => item.BookingTime)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Haircut.Id)
+                @Html.DisplayFor(modelItem => item.Haircut.Name)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Note)
             </td>
-            @*<td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
-            </td>*@
+            <td>
+                    
+                                                                
+                <a asp-action="Tomorow">Show tomorrow books</a> |
+                <a asp-action="Today">Show today books</a>
+                    
+            </td>
         </tr>
 }
     </tbody>
