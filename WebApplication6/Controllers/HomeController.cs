@@ -24,38 +24,6 @@ namespace WebApplication6.Controllers
             this.userManager = userManager;
 
         }
-        
-
-        public IActionResult Index()
-        {
-            
-            var Query = _context.Registrations.ToList();
-            return View(Query);
-        }
-        
-        public ActionResult Login()
-        {
-            return View();
-        }
-
-        [HttpPost]
-        public ActionResult Login(Registration userdata)
-        {
-            using (_context)
-            {
-                var user = _context.Registrations.Single(u => u.FirstName == userdata.FirstName && u.Password == userdata.Password);
-                if (user != null)
-                {
-                    
-                    
-                    return RedirectToAction(nameof(Index));
-                }
-
-                return View();
-            }
-
-            
-        }
 
         public async Task<IActionResult> CreateBook()
         {
@@ -82,11 +50,6 @@ namespace WebApplication6.Controllers
             ViewBag.lastName = lastName;
             
         }
-
-
-
-
-
 
         [HttpPost]
         
@@ -118,64 +81,12 @@ namespace WebApplication6.Controllers
 
         public IActionResult FilterByDate(string selectedDate)
         {
+            ViewBag.Haircut = _context.Haircut.ToList();
             DateTime Date = DateTime.Parse(selectedDate);
             List<Book> Book = _context.Book.Where(d => d.BookingTime.Date == Date.Date).ToList();
             return View(Book);
         }
 
-
-        public IActionResult CreateReg()
-        {
-           
-            
-            ViewBag.RoleId = new SelectList(_context.Role, "Id" , "Name" );
-            
-            return View();
-        }
-
-       
-
-
-
-        public IActionResult ListHaircut ()
-        {
-
-            return View();
-        }
-        
-
-
-        [HttpPost]
-        public async Task<IActionResult> Create([Bind("Id,Title,ReleaseDate,Genre,Price")] Registration USER)
-        {
-            Registration registration = new Registration();
-           
-            if (ModelState.IsValid)
-            {
-                _context.Add(USER);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return RedirectToAction(nameof(Index));
-        }
-        public async Task<IActionResult> Createtest([Bind("Id,Title,ReleaseDate,Genre,Price")] Registration USER)
-        {
-            Registration registration = new Registration();
-            
-            if (ModelState.IsValid)
-            {
-                _context.Add(USER);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
-            }
-            return RedirectToAction(nameof(Index));
-        }
-
-
-        public IActionResult Detail()
-        {
-            return View();
-        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

@@ -23,7 +23,7 @@
                 @Html.DisplayNameFor(model => model.BookingTime)|
                 <form method="post" asp-action="FilterByDate">
                     <input type="date" name="selectedDate" />
-                    <button type="submit">Фільтрувати за датою</button>
+                    <button type="submit">Filter by date</button>
                 </form>
             </th>
             <th>
@@ -56,13 +56,7 @@
             <td>
                 @Html.DisplayFor(modelItem => item.Note)
             </td>
-            <td>
-                    
-                                                                
-                <a asp-action="Tomorow">Show tomorrow books</a> |
-                <a asp-action="Today">Show today books</a>
-                    
-            </td>
+            
         </tr>
 }
     </tbody>

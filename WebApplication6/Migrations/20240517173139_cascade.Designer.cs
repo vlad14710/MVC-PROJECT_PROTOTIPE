@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using WebApplication6;
 
@@ -11,9 +12,10 @@ using WebApplication6;
 namespace WebApplication6.Migrations
 {
     [DbContext(typeof(Context))]
-    partial class ContextModelSnapshot : ModelSnapshot
+    [Migration("20240517173139_cascade")]
+    partial class cascade
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -246,9 +248,6 @@ namespace WebApplication6.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int?>("HaircutId")
-                        .HasColumnType("int");
-
                     b.Property<int?>("HaircutIdforBook")
                         .HasColumnType("int");
 
@@ -264,8 +263,6 @@ namespace WebApplication6.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("HaircutId");
 
                     b.HasIndex("HaircutIdforBook");
 
@@ -443,14 +440,9 @@ namespace WebApplication6.Migrations
 
             modelBuilder.Entity("WebApplication6.Models.Book", b =>
                 {
-                    b.HasOne("WebApplication6.Models.Haircut", null)
-                        .WithMany("Book")
-                        .HasForeignKey("HaircutId");
-
                     b.HasOne("WebApplication6.Models.Haircut", "Haircut")
-                        .WithMany()
-                        .HasForeignKey("HaircutIdforBook")
-                        .OnDelete(DeleteBehavior.Cascade);
+                        .WithMany("Book")
+                        .HasForeignKey("HaircutIdforBook");
 
                     b.Navigation("Haircut");
                 });

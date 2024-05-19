@@ -147,12 +147,12 @@ namespace WebApplication6.Controllers
             _context.Add(data);
             _context.Entry(data).State = Microsoft.EntityFrameworkCore.EntityState.Added;
             _context.SaveChanges();
-            return RedirectToAction(nameof(Index));
+            return RedirectToAction(nameof(list));
         }
         public IActionResult ComentList()
         {
             List<Coment> Coment = _context.Coment.ToList();
-
+            ViewBag.Haircut = _context.Haircut.ToList();
 
 
             return View(Coment);

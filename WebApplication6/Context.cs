@@ -25,8 +25,26 @@ namespace WebApplication6
         {
 
         }
-        
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+           
+            modelBuilder.Entity<Coment>()
+                        .HasOne(c => c.Haircut)
+                        .WithMany()
+                        .HasForeignKey(c => c.HaircutIdforBook)
+                        .OnDelete(DeleteBehavior.Cascade);
 
-        
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Book>()
+                       .HasOne(c => c.Haircut)
+                       .WithMany()
+                       .HasForeignKey(c => c.HaircutIdforBook)
+                       .OnDelete(DeleteBehavior.Cascade);
+
+            base.OnModelCreating(modelBuilder);
+        }
+
+
+
     }
 }
